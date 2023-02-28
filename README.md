@@ -14,5 +14,5 @@ git status
 git init
 git add filename
 git commit -m 'commit message'
-gitgit push origin main
+git push origin main
 ```
