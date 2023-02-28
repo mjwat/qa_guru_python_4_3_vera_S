@@ -16,3 +16,5 @@ git add filename
 git commit -m 'commit message'
 git push origin main
 ```
+
+3. Send pull request and add another code change to make a conflict.
