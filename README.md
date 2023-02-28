@@ -9,8 +9,10 @@ Find instructions on how to do it by visiting the following [link](https://docs.
 2. Create a local project. Then run the project to github.
 
 Useful commands:
-        git status
-        git init
-        git add filename
-        git commit -m 'commit message'
-        git push origin main
+```
+git status
+git init
+git add filename
+git commit -m 'commit message'
+git push origin main
+```
